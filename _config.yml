@@ -1,6 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Odd Hypothesis
+tagline:          "the other other alternative to H0"
 locale:           en_US
 url:
 
@@ -26,9 +27,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: W. Lee Pang
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Data Scientist, Developer, Dad"
   email:
   disqus-shortname:
   twitter: #username

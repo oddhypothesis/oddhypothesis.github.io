@@ -1,6 +1,10 @@
 ---
 title: Facing Your Data
 layout: post
+tags:
+- r
+- programming
+- app development
 ---
 
 A few years ago, I came across a post on [FlowingData](http://flowingdata.com) 

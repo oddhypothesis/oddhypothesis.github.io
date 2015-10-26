@@ -8,7 +8,7 @@ url:
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   pretty  #/:categories/:title/
 markdown:    redcarpet  # kramdown does not work with backtick fenced code blocks
 highlighter: pygments
 sass:
